@@ -103,6 +103,7 @@
 | [Personas](https://personas.draftbit.com/) | A playful avatar generator for the modern age |
 | [Photo Creator](https://photos.icons8.com/creator) | Create your own photos instead of searching for stock |
 | [Photopea](https://www.photopea.com) | An Online Photoshop editor |
+| [Pic2SVG](https://pic2svg.com/) | Raster-to-vector inspection for flat artwork with a free anonymous split preview and enlarged view; downloads require Pro, and images are processed on the server. |
 | [PixCleaner](https://www.pixcleaner.com/) | Accurate and hassle free background removal tool |
 | [Pixlr](https://www.pixlr.com/) | Online photo editor |
 | [Ray.so](https://ray.so/) | Online tool to create beautiful images of your code. |
